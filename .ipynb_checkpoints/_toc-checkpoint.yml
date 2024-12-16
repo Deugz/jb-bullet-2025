@@ -1,0 +1,106 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: ""
+    chapters:
+    - file: to-do  
+  - caption: Calendrier 
+    chapters:
+    - file: Calendrier/2025    
+    - file: Calendrier/janvier/janvier
+      sections: 
+      - file: Calendrier/janvier/S1_1-5_janv.md
+      - file: Calendrier/janvier/S2_6-12_janv.md
+      - file: Calendrier/janvier/S3_13-19_janv.md
+      - file: Calendrier/janvier/S4_20-26_janv.md
+      - file: Calendrier/janvier/S5_27-2_janv.md
+    - file: Calendrier/février/février
+      sections: 
+      - file: Calendrier/février/S6_3-9_févr.md
+      - file: Calendrier/février/S7_10-16_févr.md
+      - file: Calendrier/février/S8_17-23_févr.md
+      - file: Calendrier/février/S9_24-1_févr.md
+    - file: Calendrier/mars/mars
+      sections: 
+      - file: Calendrier/mars/S10_2-8_mars.md
+      - file: Calendrier/mars/S11_9-15_mars.md
+      - file: Calendrier/mars/S12_16-22_mars.md
+      - file: Calendrier/mars/S13_23-29_mars.md
+    - file: Calendrier/avril/avril
+      sections: 
+      - file: Calendrier/avril/S14_30-5_avr.md
+      - file: Calendrier/avril/S15_6-12_avr.md
+      - file: Calendrier/avril/S16_13-19_avr.md
+      - file: Calendrier/avril/S17_20-26_avr.md
+    - file: Calendrier/mai/mai
+      sections: 
+      - file: Calendrier/mai/S18_27-3_mai.md
+      - file: Calendrier/mai/S19_4-10_mai.md
+      - file: Calendrier/mai/S20_11-17_mai.md
+      - file: Calendrier/mai/S21_18-24_mai.md
+      - file: Calendrier/mai/S22_25-31_mai.md
+    - file: Calendrier/juin/juin
+      sections: 
+      - file: Calendrier/juin/S23_1-7_juin.md
+      - file: Calendrier/juin/S24_8-14_juin.md
+      - file: Calendrier/juin/S25_15-21_juin.md
+      - file: Calendrier/juin/S26_22-28_juin.md
+    - file: Calendrier/juillet/juillet
+      sections: 
+      - file: Calendrier/juillet/S27_29-5_juil.md
+      - file: Calendrier/juillet/S28_6-12_juil.md
+      - file: Calendrier/juillet/S29_13-19_juil.md
+      - file: Calendrier/juillet/S30_20-26_juil.md
+    - file: Calendrier/août/aout
+      sections: 
+      - file: Calendrier/août/S31_27-2_août.md
+      - file: Calendrier/août/S32_3-9_août.md
+      - file: Calendrier/août/S33_10-16_août.md
+      - file: Calendrier/août/S34_17-23_août.md
+      - file: Calendrier/août/S35_24-30_août.md
+    - file: Calendrier/septembre/septembre
+      sections: 
+      - file: Calendrier/septembre/S36_31-6_sep.md
+      - file: Calendrier/septembre/S37_7-13_sep.md
+      - file: Calendrier/septembre/S38_14-20_sep.md
+      - file: Calendrier/septembre/S39_21-27_sep.md
+    - file: Calendrier/octobre/octobre
+      sections: 
+      - file: Calendrier/octobre/S40_28-4_oct.md
+      - file: Calendrier/octobre/S41_5-11_oct.md
+      - file: Calendrier/octobre/S42_12-18_oct.md
+      - file: Calendrier/octobre/S43_19-25_oct.md
+    - file: Calendrier/novembre/novembre
+      sections: 
+      - file: Calendrier/novembre/S44_26-1_nov.md
+      - file: Calendrier/novembre/S45_2-8_nov.md
+      - file: Calendrier/novembre/S46_9-15_nov.md
+      - file: Calendrier/novembre/S47_16-22_nov.md
+      - file: Calendrier/novembre/S48_23-29_nov.md
+    - file: Calendrier/décembre/décembre
+      sections: 
+      - file: Calendrier/décembre/S49_30-6_déc.md
+      - file: Calendrier/décembre/S50_7-13_déc.md
+      - file: Calendrier/décembre/S51_14-20_déc.md
+      - file: Calendrier/décembre/S52_21-27_déc.md
+      - file: Calendrier/décembre/S53_28-3_janv.md
+  - caption: Projets 
+    chapters:
+    - file: Projets/Panorama
+    - file: Projets/Profile/SP-Profile
+    - file: Projets/Education/SP-Education_Journey
+      sections: 
+      - file: Projets/Education/Bahut/SP-Bahut
+      - file: Projets/Education/Label-Ecole/SP-Label-Ecole
+    - file: Projets/Research/SP-Research_Journey
+    - file: Projets/Culture/SP-Culture_Journey
+      sections: 
+      - file: Projets/Culture/Hiphop/SP-Hiphop
+    - file: Projets/Societe/SP-Societe_Journey
+  - caption: Veille 
+    chapters:
+    - file: Veille/Veille
+
